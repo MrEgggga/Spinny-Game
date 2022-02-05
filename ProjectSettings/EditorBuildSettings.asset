@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menus/Menu.unity
+    guid: 86f36cc828800fc43b4d65dbf21c1e38
+  - enabled: 1
+    path: Assets/Scenes/Menus/Win.unity
+    guid: d59d860734e8c4df3a0f3e3cbc5e1558
+  - enabled: 1
+    path: Assets/Scenes/Menus/Level Select.unity
+    guid: 36ff7b7124502a948a64803f86dd3893
+  - enabled: 1
+    path: Assets/Scenes/Normal levels/Go Right.unity
+    guid: b1ec2fd6b0aba2246a2ff5255abb3acb
+  - enabled: 1
+    path: Assets/Scenes/Normal levels/Wall Jump.unity
+    guid: 2fe12c65ab78d4776ac50d646a03e84d
+  - enabled: 1
+    path: Assets/Scenes/Normal levels/Physics.unity
+    guid: 609b7ac75d5ec6f43a2dde96f32b8a91
+  - enabled: 1
+    path: Assets/Scenes/Normal levels/Sokoban.unity
+    guid: 3cb92746367da446eb9eaad20dcbe343
+  - enabled: 1
+    path: Assets/Scenes/Normal levels/Turnstile.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Normal levels/Box Roll.unity
+    guid: a87a1e42360fcee4c842730883919828
+  - enabled: 1
+    path: Assets/Scenes/Normal levels/Rotate.unity
+    guid: f3a5c84336ddfa94396f9ef0240a31a0
+  - enabled: 1
+    path: Assets/Scenes/Normal levels/Minecart level.unity
+    guid: 6d36cad01e4df8b4ba11216c3be97661
+  - enabled: 1
+    path: Assets/Scenes/Car levels/Trials.unity
+    guid: 25c5e5a483416fc4889687c18f2f2469
+  - enabled: 1
+    path: Assets/Scenes/Car levels/Climb.unity
+    guid: 6857d8b993d15f848958d5de6d6930af
+  - enabled: 1
+    path: Assets/Scenes/3D Levels/Press W.unity
+    guid: 7103b7c0f210c402c869f140b9a4bf9f
+  - enabled: 1
+    path: Assets/Scenes/3D Levels/Now in 3D.unity
+    guid: d05c935c0831c4de886c214a258f004b
+  - enabled: 1
+    path: Assets/Scenes/Shape Levels/Unhook.unity
+    guid: 1af120fc300e94b41b04409be1cfcb31
+  - enabled: 1
+    path: Assets/Scenes/Shape Levels/Unhook 2.unity
+    guid: 746e5cc3e68274c43a569b3bd27bd0e9
+  - enabled: 1
+    path: Assets/Scenes/Shape Levels/Unhook 3.unity
+    guid: f58e704a157ce49589fec6a3b7c13ff1
+  - enabled: 1
+    path: Assets/Scenes/Shape Levels/Stick.unity
+    guid: 4c77718e2670c7349b9100740a6da058
+  - enabled: 1
+    path: Assets/Scenes/Shape Levels/Go Right (stick).unity
+    guid: 20cbcca7305f24e2586825b5b5d305a0
+  - enabled: 1
+    path: Assets/Scenes/Shape Levels/Insert coin.unity
+    guid: 48de70798fed641269b47c2d8996d3ab
+  - enabled: 1
+    path: Assets/Scenes/Secrets/Green Hill Zone.unity
+    guid: 87d38dfa98d62445f96d423d5e64f069
+  - enabled: 1
+    path: Assets/Scenes/Secrets/Foddy.unity
+    guid: 65f3a05a6039d4ccf95e2e196a168767
+  - enabled: 1
+    path: Assets/Scenes/Menus/Secret Level Select.unity
+    guid: 0bef0f240e7154d2cbcb7221b767e87e
+  - enabled: 1
+    path: Assets/Scenes/Secrets/Cleaning the System.unity
+    guid: b97855130ca2145778ae7ce2dff75891
+  - enabled: 1
+    path: Assets/Scenes/Menus/CREDITS.unity
+    guid: 16c9ea0adba4e44949e775358df77e8b
+  - enabled: 1
+    path: Assets/Scenes/Normal levels/Turnstiles.unity
+    guid: a809f845815ff4f799eac45ac8077602
+  - enabled: 1
+    path: Assets/Scenes/Secrets/Box Roll but worse.unity
+    guid: 83e8790dba18e4681aed675c2afe1ea8
+  - enabled: 1
+    path: Assets/Scenes/Normal levels/Rotate 2.unity
+    guid: 5c68e5aee07d2a240aa6745336ad168d
+  - enabled: 1
+    path: Assets/Scenes/Secrets/Special Stage.unity
+    guid: 76993747e2e34405791f678486a5c2e1
+  - enabled: 1
+    path: Assets/Scenes/Secrets/Thank you.unity
+    guid: df22f1b461f504f558d8ed6079e1a415
+  m_configObjects: {}

@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08039e3cc7cdc4b7cbc1e6a171f149bf, type: 3}
+  m_Name: Levels
+  m_EditorClassIdentifier: 
+  levels:
+  - name: Go Right
+    goldTime: 12
+    buildIndex: 3
+  - name: Wall Jump
+    goldTime: 9.4
+    buildIndex: 4
+  - name: Physics
+    goldTime: 20
+    buildIndex: 5
+  - name: Sokoban
+    goldTime: 17
+    buildIndex: 6
+  - name: Box Roll
+    goldTime: 15
+    buildIndex: 8
+  - name: Turnstile
+    goldTime: 8
+    buildIndex: 7
+  - name: Rotate
+    goldTime: 12
+    buildIndex: 9
+  - name: Rotate 2
+    goldTime: 9
+    buildIndex: 26
+  - name: Rotate 3
+    goldTime: 15
+    buildIndex: 28
+  - name: Minecart level
+    goldTime: 15
+    buildIndex: 10
+  - name: Trials
+    goldTime: 16
+    buildIndex: 11
+  - name: Climb
+    goldTime: 20
+    buildIndex: 12
+  - name: Unhook
+    goldTime: 6
+    buildIndex: 15
+  - name: Unhook 2
+    goldTime: 5
+    buildIndex: 16
+  - name: Unhook 3
+    goldTime: 30
+    buildIndex: 17
+  - name: Stick
+    goldTime: 10
+    buildIndex: 18
+  - name: Go right?
+    goldTime: 15
+    buildIndex: 19
+  - name: Press W
+    goldTime: 7
+    buildIndex: 13
+  - name: Now in 3D
+    goldTime: 10.5
+    buildIndex: 14
+  - name: Insert coin
+    goldTime: 3.2
+    buildIndex: 20
+  - name: Credits
+    goldTime: 60
+    buildIndex: 25
+  secretLevels:
+  - name: Green Hill Zone
+    goldTime: 60
+    buildIndex: 21
+  - name: Getting Over It
+    goldTime: 999.999
+    buildIndex: 22
+  - name: Cleaning the System
+    goldTime: 30
+    buildIndex: 24
+  - name: Box roll?
+    goldTime: 999.999
+    buildIndex: 27
+  - name: Special Stage
+    goldTime: 30
+    buildIndex: 29
+  winScene: 1
