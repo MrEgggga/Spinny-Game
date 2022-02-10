@@ -98,4 +98,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Secrets/Thank you.unity
     guid: df22f1b461f504f558d8ed6079e1a415
+  - enabled: 1
+    path: Assets/Scenes/Menus/ClearData.unity
+    guid: e7f2854136cdd4443bfae3fc15ee6589
   m_configObjects: {}
