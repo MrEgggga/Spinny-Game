@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 7920089634202473625}
   - component: {fileID: 1576785451568115138}
   - component: {fileID: 8129438908277943971}
+  - component: {fileID: 6996919581110566949}
   m_Layer: 0
   m_Name: 3DCollectible
   m_TagString: Untagged
@@ -109,3 +110,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a2273c7154d6c4e75822ac7e0a43f5e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!65 &6996919581110566949
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8586841421884576523}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}

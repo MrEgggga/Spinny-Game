@@ -101,6 +101,11 @@ public class LevelCompletionData : MonoBehaviour
         if(PlayerPrefs.HasKey("LevelCompletionData"))
         {
             levelData = JsonUtility.FromJson<LevelDataArray>(PlayerPrefs.GetString("LevelCompletionData"));
+
+            if(levelData.secrets == null)
+            {
+                levelData.secrets = new bool[20];
+            }
         }
         else
         {
