@@ -137,5 +137,6 @@ public class LevelCompletionData : MonoBehaviour
     public void ClearData()
     {
         PlayerPrefs.DeleteKey("LevelCompletionData");
+        Application.Quit();
     }
 }
