@@ -3606,7 +3606,7 @@ MonoBehaviour:
   - the best programming language is Befunge
   - how is this game still not dead after over a month what
   - if(a == false) { return true; } else if(a && true) { return true; } else { throw
-    '
+    false; }
   - money simulator pog
   - i would get the rickroll link but i can't be bothered
   - i should probably change the text size on this
@@ -3621,6 +3621,16 @@ MonoBehaviour:
   - Confirm Cancel - This action cannot be undone. [Cancel] [Cancel]
   - Quit Sibelius
   - ok that's probably enough daily messages for now
+  - JANKYJAM (jankyjam.netlify.app)
+  - how are you doing today?
+  - spinny gam
+  - h
+  - don't you have something better to do?
+  - i'll probably actually never add these new lines into the game so why am i writing
+    them
+  - 'ERROR: You have reached an unreachable state. Spinny Game should not be still
+    alive (unless you''re jimbo, in chich case STOP PLAYING YOUR OWN GAME WHAT THE
+    HELL'
 --- !u!1 &1704870654
 GameObject:
   m_ObjectHideFlags: 0
