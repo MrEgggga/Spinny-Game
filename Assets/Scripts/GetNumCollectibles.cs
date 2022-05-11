@@ -23,6 +23,11 @@ public class GetNumCollectibles : MonoBehaviour
         {
             collectibles += c ? 1 : 0;
         }
+        if(collectibles >= 20)
+        {
+            text.text = string.Format("{0}/21", collectibles);
+            return;
+        }
         text.text = string.Format("{0}/20", collectibles);
     }
 }

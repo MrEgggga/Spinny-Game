@@ -22,6 +22,7 @@ public class Collectible : MonoBehaviour
     void Start()
     {
         lcd = LevelCompletionData.instance;
+        Debug.Log(collectibleNumber);
         if(lcd.levelData.secrets[collectibleNumber])
         {
             Destroy(gameObject);

@@ -27,8 +27,10 @@ public class SpeedrunTimer : MonoBehaviour
 
         if(instance != this)
         {
-            Destroy(canvas.gameObject);
+            Destroy(instance.canvas.gameObject);
+            instance = this;
         }
+        StartTimer();
     }
 
     // Update is called once per frame

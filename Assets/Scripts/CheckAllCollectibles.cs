@@ -8,8 +8,9 @@ public class CheckAllCollectibles : MonoBehaviour
     void Update()
     {
         bool allCollected = true;
-        foreach(bool c in LevelCompletionData.instance.levelData.secrets)
+        for(int i = 0; i < 20; ++i)
         {
+            bool c = LevelCompletionData.instance.levelData.secrets[i];
             if(!c)
             {
                 allCollected = false;

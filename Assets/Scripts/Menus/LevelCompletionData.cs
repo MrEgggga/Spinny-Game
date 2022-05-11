@@ -124,7 +124,7 @@ public class LevelCompletionData : MonoBehaviour
                 levelData.secretLevelData[i].haveGold = false;
                 levelData.secretLevelData[i].bestTime = Mathf.Infinity;
             }
-            levelData.secrets = new bool[20];
+            levelData.secrets = new bool[21];
             SaveData();
         }
     }
