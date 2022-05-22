@@ -9,7 +9,7 @@ public class SpeedrunTimer : MonoBehaviour
     public static SpeedrunTimer instance;
     public Canvas canvas;
     public TextMeshProUGUI text;
-    private float elapsed;
+    public float elapsed;
     private bool timerRunning;
 
     // Start is called before the first frame update
